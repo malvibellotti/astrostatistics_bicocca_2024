@@ -1,0 +1,95 @@
+         nlive: 1000
+         niter: 14300
+         ncall: array([1, 1, 1, ..., 1, 1, 1])
+           eff: 10.946555054732775
+       samples: array([[9.32251539e+01, 1.86558806e-02, 1.36008882e+01, 2.22007875e+00],
+       [4.52293757e+01, 2.71232932e-02, 1.13506027e+01, 5.01858253e+00],
+       [4.68132579e+01, 2.65624097e-02, 7.59839615e+00, 3.94801779e+00],
+       ...,
+       [5.02024288e+01, 1.03046254e+01, 4.74528135e+00, 1.20986304e-01],
+       [5.09394396e+01, 1.02916678e+01, 4.44598545e+00, 1.17931306e-01],
+       [4.70317479e+01, 1.02881908e+01, 6.89924826e+00, 1.18703173e-01]])
+          blob: array([None, None, None, ..., None, None, None], dtype=object)
+    samples_id: array([353, 965, 141, ...,  56,  26, 458])
+    samples_it: array([    0,     0,     0, ..., 14234, 12773, 14123])
+     samples_u: array([[0.90321648, 0.00093279, 0.68004441, 0.2995431 ],
+       [0.21756251, 0.00135616, 0.56753013, 0.67827941],
+       [0.2401894 , 0.00132812, 0.37991981, 0.53339422],
+       ...,
+       [0.28860613, 0.51523127, 0.23726407, 0.01546183],
+       [0.29913485, 0.51458339, 0.22229927, 0.01504838],
+       [0.24331068, 0.51440954, 0.34496241, 0.01515285]])
+         logwt: array([-6009.75500138, -5998.26963384, -5980.41241332, ...,
+        -253.76676753,  -253.76022695,  -253.75333782])
+          logl: array([-6002.15309942, -5990.66674265, -5972.80851238, ...,
+        -232.56421958,  -232.55304644,  -232.55041186])
+        logvol: array([-9.99500333e-04, -1.99900067e-03, -2.99850100e-03, ...,
+       -2.01029973e+01, -2.05084624e+01, -2.12016095e+01])
+          logz: array([-6009.75500138, -5998.26962356, -5980.4124133 , ...,
+        -246.75915323,  -246.75824274,  -246.75732679])
+       logzerr: array([0.        , 0.        , 0.        , ..., 0.25352778, 0.26364923,
+       0.2802244 ])
+   information: array([ 0.        ,  0.        ,  0.        , ..., 12.59785604,
+       12.6107661 , 12.62377171])
+         bound: [<dynesty.bounding.UnitCube object at 0x76887373f190>, <dynesty.bounding.MultiEllipsoid object at 0x7688730843d0>, <dynesty.bounding.MultiEllipsoid object at 0x768873644fd0>, <dynesty.bounding.MultiEllipsoid object at 0x76887360f310>, <dynesty.bounding.MultiEllipsoid object at 0x768878169d10>, <dynesty.bounding.MultiEllipsoid object at 0x76887816a690>, <dynesty.bounding.MultiEllipsoid object at 0x768878169f10>, <dynesty.bounding.MultiEllipsoid object at 0x7688782273d0>, <dynesty.bounding.MultiEllipsoid object at 0x768878227210>, <dynesty.bounding.MultiEllipsoid object at 0x768878169f50>, <dynesty.bounding.MultiEllipsoid object at 0x7688787d1ad0>, <dynesty.bounding.MultiEllipsoid object at 0x7688787d3dd0>, <dynesty.bounding.MultiEllipsoid object at 0x7688787d0b50>, <dynesty.bounding.MultiEllipsoid object at 0x7688786c7a90>, <dynesty.bounding.MultiEllipsoid object at 0x7688786c4290>, <dynesty.bounding.MultiEllipsoid object at 0x7688786c4f50>, <dynesty.bounding.MultiEllipsoid object at 0x7688786c4a50>, <dynesty.bounding.MultiEllipsoid object at 0x7688781b3650>, <dynesty.bounding.MultiEllipsoid object at 0x7688781b2f10>, <dynesty.bounding.MultiEllipsoid object at 0x7688781b0710>, <dynesty.bounding.MultiEllipsoid object at 0x7688737e5a10>, <dynesty.bounding.MultiEllipsoid object at 0x768878889c90>, <dynesty.bounding.MultiEllipsoid object at 0x76887888a6d0>, <dynesty.bounding.MultiEllipsoid object at 0x76887888bfd0>, <dynesty.bounding.MultiEllipsoid object at 0x768878889a50>, <dynesty.bounding.MultiEllipsoid object at 0x7688781bcdd0>, <dynesty.bounding.MultiEllipsoid object at 0x7688781bd2d0>, <dynesty.bounding.MultiEllipsoid object at 0x7688781bca90>, <dynesty.bounding.MultiEllipsoid object at 0x7688781bee10>, <dynesty.bounding.MultiEllipsoid object at 0x768878484490>, <dynesty.bounding.MultiEllipsoid object at 0x768878486ed0>, <dynesty.bounding.MultiEllipsoid object at 0x768878487710>, <dynesty.bounding.MultiEllipsoid object at 0x768878484e10>, <dynesty.bounding.MultiEllipsoid object at 0x768878487f50>, <dynesty.bounding.MultiEllipsoid object at 0x768878484250>, <dynesty.bounding.MultiEllipsoid object at 0x768878486a10>, <dynesty.bounding.MultiEllipsoid object at 0x768878196790>, <dynesty.bounding.MultiEllipsoid object at 0x768878194310>, <dynesty.bounding.MultiEllipsoid object at 0x768878195d50>, <dynesty.bounding.MultiEllipsoid object at 0x768878197810>, <dynesty.bounding.MultiEllipsoid object at 0x768878194fd0>, <dynesty.bounding.MultiEllipsoid object at 0x7688781001d0>, <dynesty.bounding.MultiEllipsoid object at 0x76887364f710>, <dynesty.bounding.MultiEllipsoid object at 0x7688738c52d0>, <dynesty.bounding.MultiEllipsoid object at 0x7688738c7dd0>, <dynesty.bounding.MultiEllipsoid object at 0x76887880a790>, <dynesty.bounding.MultiEllipsoid object at 0x7688788090d0>, <dynesty.bounding.MultiEllipsoid object at 0x768878809010>, <dynesty.bounding.MultiEllipsoid object at 0x76887880a210>, <dynesty.bounding.MultiEllipsoid object at 0x76887880a6d0>, <dynesty.bounding.MultiEllipsoid object at 0x768878b2f4d0>, <dynesty.bounding.MultiEllipsoid object at 0x768878b2f950>, <dynesty.bounding.MultiEllipsoid object at 0x768878b2dd10>, <dynesty.bounding.MultiEllipsoid object at 0x768878b2d490>, <dynesty.bounding.MultiEllipsoid object at 0x768878b2df90>, <dynesty.bounding.MultiEllipsoid object at 0x768878b2cd50>, <dynesty.bounding.MultiEllipsoid object at 0x768878b2c2d0>, <dynesty.bounding.MultiEllipsoid object at 0x768878b2d590>, <dynesty.bounding.MultiEllipsoid object at 0x768878b2df10>, <dynesty.bounding.MultiEllipsoid object at 0x768878b2c850>, <dynesty.bounding.MultiEllipsoid object at 0x768878b2c3d0>, <dynesty.bounding.MultiEllipsoid object at 0x768878b2c150>, <dynesty.bounding.MultiEllipsoid object at 0x7688780edb90>, <dynesty.bounding.MultiEllipsoid object at 0x768878016090>, <dynesty.bounding.MultiEllipsoid object at 0x7688788e5f10>, <dynesty.bounding.MultiEllipsoid object at 0x7688788e7d50>, <dynesty.bounding.MultiEllipsoid object at 0x7688788e69d0>, <dynesty.bounding.MultiEllipsoid object at 0x76887386ab90>, <dynesty.bounding.MultiEllipsoid object at 0x7688738686d0>, <dynesty.bounding.MultiEllipsoid object at 0x76887386b890>, <dynesty.bounding.MultiEllipsoid object at 0x7688738682d0>]
+    bound_iter: array([ 0,  0,  0, ..., 70, 70, 70])
+ samples_bound: array([68, 61, 69, 59, 68, 69, 69, 65, 69, 62, 69, 66, 68, 66, 68, 69, 68,
+       66, 65, 70, 66, 69, 68, 69, 66, 68, 66, 67, 68, 64, 64, 63, 69, 69,
+       66, 69, 64, 69, 67, 67, 67, 61, 64, 69, 70, 68, 66, 68, 60, 69, 70,
+       67, 67, 67, 60, 63, 58, 61, 68, 69, 70, 67, 70, 69, 69, 67, 66, 69,
+       66, 69, 64, 68, 60, 67, 61, 69, 56, 66, 66, 70, 60, 70, 63, 67, 66,
+       68, 68, 69, 70, 68, 69, 52, 60, 69, 69, 69, 67, 69, 69, 60, 67, 69,
+       59, 58, 67, 63, 68, 63, 69, 56, 62, 49, 70, 55, 69, 67, 69, 70, 68,
+       69, 67, 69, 61, 67, 69, 69, 64, 51, 68, 69, 67, 70, 64, 67, 69, 64,
+       62, 70, 69, 69, 69, 66, 57, 69, 69, 65, 67, 56, 61, 69, 61, 68, 70,
+       69, 60, 67, 61, 66, 67, 67, 68, 65, 62, 62, 69, 65, 69, 66, 66, 66,
+       63, 61, 62, 68, 57, 61, 65, 66, 66, 69, 66, 69, 66, 68, 63, 68, 69,
+       69, 69, 68, 69, 70, 69, 66, 64, 62, 64, 64, 56, 65, 67, 62, 65, 69,
+       67, 68, 68, 69, 69, 63, 68, 69, 64, 69, 51, 66, 69, 67, 68, 64, 68,
+       63, 67, 69, 63, 68, 69, 69, 69, 69, 69, 66, 64, 67, 61, 65, 67, 69,
+       68, 69, 68, 67, 66, 69, 57, 66, 62, 67, 68, 66, 68, 67, 66, 68, 57,
+       68, 65, 69, 69, 67, 70, 61, 66, 66, 69, 61, 66, 60, 68, 69, 69, 66,
+       66, 67, 63, 69, 69, 59, 67, 68, 69, 69, 68, 69, 69, 69, 64, 69, 62,
+       66, 67, 69, 67, 49, 56, 67, 69, 67, 68, 63, 63, 68, 69, 68, 64, 67,
+       65, 65, 63, 66, 67, 60, 68, 63, 65, 68, 52, 68, 70, 69, 70, 67, 64,
+       67, 69, 65, 66, 70, 53, 67, 62, 67, 68, 64, 70, 55, 69, 67, 67, 60,
+       69, 70, 66, 69, 68, 67, 67, 62, 56, 69, 66, 69, 70, 64, 62, 69, 67,
+       60, 69, 66, 70, 68, 69, 68, 68, 66, 69, 66, 66, 68, 67, 64, 44, 60,
+       67, 69, 69, 70, 63, 60, 67, 65, 66, 69, 63, 64, 69, 60, 67, 69, 64,
+       55, 62, 68, 62, 69, 63, 68, 64, 64, 67, 69, 68, 66, 57, 55, 63, 69,
+       70, 68, 62, 66, 63, 67, 65, 66, 57, 68, 70, 60, 67, 70, 67, 68, 59,
+       69, 67, 66, 69, 66, 60, 67, 68, 62, 67, 67, 67, 68, 70, 58, 69, 66,
+       68, 66, 67, 68, 67, 69, 68, 69, 66, 65, 68, 67, 54, 59, 61, 70, 70,
+       63, 64, 69, 65, 64, 67, 59, 69, 66, 67, 68, 53, 67, 68, 60, 58, 70,
+       69, 70, 70, 59, 69, 66, 64, 64, 69, 67, 66, 68, 67, 68, 69, 63, 61,
+       68, 69, 67, 69, 69, 66, 69, 63, 64, 69, 64, 66, 69, 68, 59, 64, 69,
+       68, 69, 68, 67, 66, 68, 62, 63, 69, 69, 70, 66, 67, 69, 70, 70, 60,
+       68, 68, 70, 68, 64, 67, 70, 64, 69, 67, 61, 67, 69, 56, 67, 69, 65,
+       67, 69, 63, 70, 62, 67, 65, 62, 66, 59, 69, 68, 65, 69, 69, 65, 69,
+       68, 63, 66, 65, 64, 68, 67, 64, 67, 50, 69, 66, 67, 68, 61, 63, 61,
+       67, 68, 57, 69, 55, 66, 69, 67, 69, 64, 67, 69, 68, 61, 69, 69, 66,
+       64, 68, 66, 69, 69, 69, 57, 68, 62, 66, 70, 69, 69, 68, 55, 69, 69,
+       66, 68, 54, 68, 70, 66, 64, 65, 70, 67, 69, 65, 66, 65, 68, 68, 68,
+       63, 58, 70, 67, 66, 69, 57, 70, 63, 66, 65, 67, 59, 68, 69, 70, 68,
+       70, 67, 67, 57, 69, 54, 69, 70, 69, 68, 62, 62, 69, 70, 66, 65, 68,
+       69, 69, 69, 69, 56, 69, 65, 69, 69, 62, 68, 69, 63, 62, 69, 61, 68,
+       69, 66, 69, 68, 69, 69, 69, 70, 66, 58, 69, 62, 66, 62, 69, 68, 69,
+       69, 68, 69, 66, 64, 62, 56, 69, 66, 60, 66, 69, 60, 67, 67, 68, 68,
+       67, 65, 69, 68, 69, 70, 52, 68, 61, 68, 55, 65, 68, 68, 68, 65, 67,
+       70, 70, 67, 68, 69, 66, 70, 66, 70, 64, 61, 65, 67, 70, 69, 69, 65,
+       68, 64, 64, 66, 70, 70, 67, 68, 63, 66, 67, 70, 65, 69, 67, 63, 70,
+       65, 69, 66, 67, 66, 69, 69, 69, 68, 64, 69, 58, 66, 69, 66, 68, 64,
+       66, 55, 67, 67, 66, 64, 68, 56, 64, 66, 69, 65, 62, 63, 64, 66, 69,
+       67, 62, 62, 61, 67, 58, 67, 68, 68, 60, 66, 69, 65, 67, 69, 70, 62,
+       68, 66, 69, 62, 68, 69, 63, 69, 60, 65, 69, 65, 66, 66, 64, 67, 65,
+       68, 68, 56, 69, 70, 69, 68, 69, 69, 67, 65, 68, 57, 66, 67, 57, 67,
+       69, 66, 69, 69, 63, 53, 70, 66, 69, 69, 63, 69, 62, 53, 68, 69, 62,
+       67, 69, 66, 67, 65, 68, 69, 66, 55, 70, 65, 45, 62, 70, 61, 67, 69,
+       68, 67, 69, 69, 69, 69, 68, 67, 61, 70, 62, 58, 69, 66, 69, 55, 67,
+       69, 68, 64, 68, 66, 70, 65, 65, 69, 70, 67, 67, 67, 63, 62, 68, 70,
+       70, 69, 62, 67, 67, 66, 67, 68, 65, 62, 57, 63, 65, 70, 69, 69, 62,
+       67, 65, 70, 68, 66, 65, 69, 68, 68, 69, 69, 65, 55, 66, 70, 69, 67,
+       68, 69, 69, 68, 67, 69, 68, 69, 70, 65, 70, 68, 67, 68, 66, 66, 68,
+       67, 52, 69, 69, 65, 67, 70, 67, 69, 61, 67, 67, 64, 69, 68, 64, 63,
+       62, 69, 70, 69, 67, 70, 68, 63, 69, 67, 67, 70, 64, 69])
+         scale: array([1., 1., 1., ..., 1., 1., 1.])

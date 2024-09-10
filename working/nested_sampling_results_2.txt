@@ -1,0 +1,54 @@
+         nlive: 300
+         niter: 4047
+         ncall: array([1, 1, 1, ..., 1, 1, 1])
+           eff: 14.775662814411964
+       samples: array([[57.79597536, 19.60630998, 13.66780112,  6.01725028],
+       [64.50408365, 17.0968582 , 16.0056802 ,  7.52420664],
+       [78.13188085, 18.97842815, 15.26079253,  5.87730935],
+       ...,
+       [55.21001447, 10.31751372,  2.79067549,  5.29191431],
+       [55.4545496 , 10.30008374,  2.73713512,  5.3594712 ],
+       [55.40220434, 10.30149435,  2.7800392 ,  5.36483484]])
+          blob: array([None, None, None, ..., None, None, None], dtype=object)
+    samples_id: array([116, 234, 106, ...,  65, 115,  76])
+    samples_it: array([   0,    0,    0, ..., 4029, 3611, 3827])
+     samples_u: array([[0.39708536, 0.9803155 , 0.68339006, 0.79603063],
+       [0.49291548, 0.85484291, 0.80028401, 0.999975  ],
+       [0.6875983 , 0.94892141, 0.76303963, 0.77709169],
+       ...,
+       [0.36014306, 0.51587569, 0.13953377, 0.69786708],
+       [0.36363642, 0.51500419, 0.13685676, 0.70700991],
+       [0.36288863, 0.51507472, 0.13900196, 0.7077358 ]])
+         logwt: array([-7422.09094627, -6501.50528117, -6254.2539001 , ...,
+        -255.40193013,  -255.38554381,  -255.36901166])
+          logl: array([-7415.69068883, -6495.10169593, -6247.84698707, ...,
+        -236.2270531 ,  -236.1949388 ,  -236.19373135])
+        logvol: array([-3.32779009e-03, -6.65558019e-03, -9.98337028e-03, ...,
+       -1.80760645e+01, -1.84815296e+01, -1.91746768e+01])
+          logz: array([-7422.09094627, -6501.50528117, -6254.2539001 , ...,
+        -248.44354871,  -248.44258284,  -248.44160182])
+       logzerr: array([0.        , 0.        , 0.        , ..., 0.26391344, 0.27282456,
+       0.28767548])
+   information: array([ 0.        ,  0.        ,  0.        , ..., 10.30199283,
+       10.31378901, 10.32579791])
+         bound: [<dynesty.bounding.UnitCube object at 0x76886b918790>, <dynesty.bounding.MultiEllipsoid object at 0x76886af2a090>, <dynesty.bounding.MultiEllipsoid object at 0x76886ae42890>, <dynesty.bounding.MultiEllipsoid object at 0x76886ae3b3d0>, <dynesty.bounding.MultiEllipsoid object at 0x768870814190>, <dynesty.bounding.MultiEllipsoid object at 0x76886af91490>, <dynesty.bounding.MultiEllipsoid object at 0x76886addad10>, <dynesty.bounding.MultiEllipsoid object at 0x76886b77fe90>, <dynesty.bounding.MultiEllipsoid object at 0x76886ad54d90>, <dynesty.bounding.MultiEllipsoid object at 0x76886af93150>, <dynesty.bounding.MultiEllipsoid object at 0x76886abd9ad0>, <dynesty.bounding.MultiEllipsoid object at 0x76886abdb0d0>, <dynesty.bounding.MultiEllipsoid object at 0x76886aed9690>, <dynesty.bounding.MultiEllipsoid object at 0x76886aba0bd0>, <dynesty.bounding.MultiEllipsoid object at 0x76886aba3990>, <dynesty.bounding.MultiEllipsoid object at 0x76886ac0da90>, <dynesty.bounding.MultiEllipsoid object at 0x76886acd7450>, <dynesty.bounding.MultiEllipsoid object at 0x76886ace1790>, <dynesty.bounding.MultiEllipsoid object at 0x76886ab7cc10>, <dynesty.bounding.MultiEllipsoid object at 0x76886ab7ee10>, <dynesty.bounding.MultiEllipsoid object at 0x76886ad2b8d0>, <dynesty.bounding.MultiEllipsoid object at 0x76886ad10ed0>, <dynesty.bounding.MultiEllipsoid object at 0x76886ac7fb50>, <dynesty.bounding.MultiEllipsoid object at 0x76886ad36e90>, <dynesty.bounding.MultiEllipsoid object at 0x76886ad37890>, <dynesty.bounding.MultiEllipsoid object at 0x76886ad36350>, <dynesty.bounding.MultiEllipsoid object at 0x76886ad37350>, <dynesty.bounding.MultiEllipsoid object at 0x76886b7ad1d0>, <dynesty.bounding.MultiEllipsoid object at 0x76886ad160d0>, <dynesty.bounding.MultiEllipsoid object at 0x76886ad16210>, <dynesty.bounding.MultiEllipsoid object at 0x76886ad17310>, <dynesty.bounding.MultiEllipsoid object at 0x76886ad15750>, <dynesty.bounding.MultiEllipsoid object at 0x76886ad15c10>, <dynesty.bounding.MultiEllipsoid object at 0x76886afcd310>, <dynesty.bounding.MultiEllipsoid object at 0x76886acb6a90>, <dynesty.bounding.MultiEllipsoid object at 0x76886acb7e90>, <dynesty.bounding.MultiEllipsoid object at 0x76886ae28710>, <dynesty.bounding.MultiEllipsoid object at 0x76886ae28590>, <dynesty.bounding.MultiEllipsoid object at 0x76886ac85650>, <dynesty.bounding.MultiEllipsoid object at 0x76886ac86610>, <dynesty.bounding.MultiEllipsoid object at 0x76886ac87a90>, <dynesty.bounding.MultiEllipsoid object at 0x76886ac869d0>, <dynesty.bounding.MultiEllipsoid object at 0x76886aca8d50>, <dynesty.bounding.MultiEllipsoid object at 0x76886aca9290>]
+    bound_iter: array([ 0,  0,  0, ..., 43, 43, 43])
+ samples_bound: array([41, 42, 43, 42, 39, 42, 43, 36, 39, 42, 42, 43, 41, 40, 41, 42, 42,
+       43, 42, 43, 39, 42, 40, 40, 43, 43, 38, 40, 42, 42, 43, 41, 42, 42,
+       40, 37, 38, 38, 41, 42, 41, 41, 43, 43, 42, 43, 43, 41, 42, 41, 42,
+       41, 43, 38, 43, 41, 41, 42, 43, 40, 42, 43, 43, 42, 42, 43, 39, 41,
+       42, 43, 42, 42, 41, 42, 41, 41, 43, 42, 43, 41, 43, 42, 37, 43, 39,
+       42, 43, 42, 39, 41, 41, 43, 42, 42, 43, 41, 40, 43, 42, 42, 41, 43,
+       42, 42, 40, 42, 42, 42, 38, 41, 40, 42, 42, 42, 42, 43, 40, 43, 42,
+       43, 42, 42, 43, 43, 42, 42, 42, 40, 42, 42, 42, 42, 43, 39, 43, 40,
+       41, 43, 42, 42, 42, 42, 37, 42, 42, 42, 38, 41, 43, 41, 42, 42, 40,
+       42, 42, 42, 42, 42, 42, 42, 42, 43, 41, 40, 39, 43, 40, 41, 39, 42,
+       42, 43, 42, 40, 42, 42, 42, 38, 42, 43, 39, 42, 42, 42, 40, 42, 43,
+       43, 41, 43, 40, 42, 40, 40, 41, 40, 39, 41, 43, 41, 41, 41, 38, 42,
+       42, 42, 42, 43, 43, 40, 43, 38, 42, 43, 42, 41, 43, 41, 42, 39, 42,
+       43, 42, 42, 42, 42, 39, 36, 38, 39, 41, 42, 42, 40, 41, 41, 42, 43,
+       42, 41, 38, 41, 42, 42, 42, 42, 36, 42, 41, 42, 39, 42, 37, 43, 42,
+       42, 42, 43, 38, 43, 35, 42, 42, 38, 41, 41, 41, 40, 42, 42, 42, 38,
+       41, 42, 41, 42, 42, 43, 42, 42, 43, 43, 42, 41, 43, 42, 41, 42, 42,
+       42, 37, 38, 42, 43, 41, 39, 42, 43, 40, 42])
+         scale: array([1., 1., 1., ..., 1., 1., 1.])
